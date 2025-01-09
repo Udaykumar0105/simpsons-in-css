@@ -2,7 +2,7 @@
 
 Simpsons characters in pure CSS
 
-[View the project page](https://github.com/Udaykumar0105/simpsons-in-css "Simpsons in CSS")
+[View the project page](http://Udaykumar0105.github.io/simpsons-in-css "Simpsons in CSS")
 
 **Disclaimer**
 
